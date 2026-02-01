@@ -59,22 +59,6 @@
 
 ---
 
-## 🏆 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev-florian&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-florian&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dev-florian/)
