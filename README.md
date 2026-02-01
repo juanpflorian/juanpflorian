@@ -42,12 +42,10 @@
 
 ### 🎨 Frontend  
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)  
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)  
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?style=flat-square&logo=framer)  
 
 ### 🛠 Backend  
 ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 
 ### 📊 Data & Analysis  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)  
@@ -83,8 +81,3 @@
 - 📧 juanpabloflorian12@gmail.com
 
 ---
-
-<p align="center">
-  <em>“Code is not just about syntax — it’s about solving real problems through logic, design, and empathy.”</em><br/><br/>
-  ⭐ I'm currently working on uploading more of my personal projects. Follow me and check back soon!
-</p>
