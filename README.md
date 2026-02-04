@@ -38,7 +38,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
 ![C#](https://img.shields.io/badge/-C%23-68217A?style=flat-square&logo=c-sharp&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)  
 
 ### 🎨 Frontend  
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)  
